@@ -1,0 +1,56 @@
+11
+car
+red
+h
+3
+2
+car
+light blue
+h
+1
+1
+truck
+yellow
+v
+1
+4
+car
+brown
+v
+1
+5
+car
+dark blue
+v
+1
+6
+car
+light purple
+v
+3
+1
+car
+aqua
+h
+5
+1
+car
+grey
+h
+6
+1
+truck
+blue
+v
+4
+3
+car
+dark purple
+h
+4
+4
+truck
+purple
+v
+3
+6
